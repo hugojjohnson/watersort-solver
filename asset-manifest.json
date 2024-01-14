@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/watersort-solver/static/css/main.7d4de2ce.css",
+    "main.js": "/watersort-solver/static/js/main.9a79a5f2.js",
+    "index.html": "/watersort-solver/index.html",
+    "main.7d4de2ce.css.map": "/watersort-solver/static/css/main.7d4de2ce.css.map",
+    "main.9a79a5f2.js.map": "/watersort-solver/static/js/main.9a79a5f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d4de2ce.css",
+    "static/js/main.9a79a5f2.js"
+  ]
+}
